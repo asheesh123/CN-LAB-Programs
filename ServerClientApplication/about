@@ -1,0 +1,6 @@
+Lab - 1
+___________
+This program is about..
+Single Server and Multiple clients
+Client request to evaluate an expression of form (op1 op op2)
+Server accepts the client request and provide the solution of expression.
